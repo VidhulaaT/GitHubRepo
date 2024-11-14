@@ -3,5 +3,5 @@ id,name,salary,mail
 35,Arun,10000,bala@gmail.com
 I am adding a few contents  here
 
+This is the file after resolving the conflict in between the file created in the local and in the git repo
 
-This is the second time i am adding the content too the file .
